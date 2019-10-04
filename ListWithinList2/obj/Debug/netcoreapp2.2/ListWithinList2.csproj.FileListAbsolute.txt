@@ -1,0 +1,11 @@
+D:\DotNetPrograms\ListWithinList2\bin\Debug\netcoreapp2.2\ListWithinList2.deps.json
+D:\DotNetPrograms\ListWithinList2\bin\Debug\netcoreapp2.2\ListWithinList2.runtimeconfig.json
+D:\DotNetPrograms\ListWithinList2\bin\Debug\netcoreapp2.2\ListWithinList2.runtimeconfig.dev.json
+D:\DotNetPrograms\ListWithinList2\bin\Debug\netcoreapp2.2\ListWithinList2.dll
+D:\DotNetPrograms\ListWithinList2\bin\Debug\netcoreapp2.2\ListWithinList2.pdb
+D:\DotNetPrograms\ListWithinList2\obj\Debug\netcoreapp2.2\ListWithinList2.csprojAssemblyReference.cache
+D:\DotNetPrograms\ListWithinList2\obj\Debug\netcoreapp2.2\ListWithinList2.csproj.CoreCompileInputs.cache
+D:\DotNetPrograms\ListWithinList2\obj\Debug\netcoreapp2.2\ListWithinList2.AssemblyInfoInputs.cache
+D:\DotNetPrograms\ListWithinList2\obj\Debug\netcoreapp2.2\ListWithinList2.AssemblyInfo.cs
+D:\DotNetPrograms\ListWithinList2\obj\Debug\netcoreapp2.2\ListWithinList2.dll
+D:\DotNetPrograms\ListWithinList2\obj\Debug\netcoreapp2.2\ListWithinList2.pdb
